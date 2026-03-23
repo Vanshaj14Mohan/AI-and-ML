@@ -4,6 +4,7 @@ print("hello world")
 print("AI/ML batch \n2.0")
 
 # Variables in Python
+print("Variables in Python")
 name = "Vanshaj"
 age = 23
 PI = 3.14
@@ -15,8 +16,12 @@ print(type(name))
 print(type(age))
 print(type(PI))
 
+print("----------------------------------")
+
 # Operators
+print("Operators in Python")
 #Arithmetic Operators
+print("Arithmetic Operators")
 a = 10
 b = 5
 print(a+b) # 15
@@ -27,6 +32,7 @@ print(a%b) # 0
 print(a**b) # 100000
 
 # Relational Operators
+print("Relational Operators")
 print(a > b) # True
 print(a >= b) # True
 print(b <= a) # True
@@ -34,6 +40,7 @@ print(a == b) # False
 print(a!=b) # True
 
 # Assignment Operators
+print("Assignment Operators")
 c = 2
 c+= 2
 print(c) # 4
@@ -46,6 +53,7 @@ c%= 2
 print(c) # 0
 
 # Logical Operators
+print("Logical Operators")
 #not , and, or
 #Using not
 print(not (5 >8)) # True
@@ -59,7 +67,10 @@ print((4 >3) and (7 > 5)) # True
 print((4 >3) or (7 >9)) # True
 print((4> 5) or (5>7)) # False
 
+print("----------------------------------")
+
 # Type conversion and Type Casting
+print("Type Conversion and Type Casting")
 ans1 = int(10 + 9.0)
 ans2 = 5 + 10.0
 print(ans1, type(ans1)) # 19 <class 'int'>
@@ -81,3 +92,5 @@ num1 = float(input("Enter num1: "))
 num2 = float(input("Enter num2: "))
 avg = (num1+num2)/2
 print("Average is: ", avg)
+
+print("----------------------------------")
