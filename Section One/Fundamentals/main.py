@@ -1,4 +1,4 @@
-# PYTHON FUNDAMENTALS
+# PYTHON FUNDAMENTALS PART 1: 
 
 print("hello world")
 print("AI/ML batch \n2.0")
