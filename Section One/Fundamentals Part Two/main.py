@@ -18,3 +18,20 @@ elif (age >= 13 and age <18):
     print("A teenager")
 else:
     print("An adult")
+
+username = input("Enter Username: ")
+password = input("Enter Password: ")
+
+if(username == "Admin" and password == "Admin@1234"):
+    print("Welcome User")
+elif (username != "Admin"):
+    print("Incorrect username")
+else:
+    print("Wrong Password")
+
+# Check if number n is multiple of 5 or not
+n = 5
+if(n %5 == 0):
+    print("Multiple of 5")
+else:
+    print("Not a multiple of 5")
