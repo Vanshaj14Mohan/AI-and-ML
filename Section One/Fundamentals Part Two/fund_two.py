@@ -1,4 +1,4 @@
-# Conditional Statements: 
+# Conditional Statements in Python: 
 color = str(input("Enter the color: "))
 
 if color == "Red":
