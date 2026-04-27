@@ -1,1 +1,2 @@
-A new txt file to check more modes
+Python Languageto check more modes
+The final part
