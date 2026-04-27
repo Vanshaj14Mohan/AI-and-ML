@@ -1,1 +1,2 @@
-A normal sample file for Part Five based on File I/O in Python
+A normal sample file for Part Five based on File I/O in PythonLanguageSome advanced features as well
+Some advanced features as well
