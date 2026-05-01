@@ -1,0 +1,9 @@
+{
+    "name": "John",
+    "isStudent": true,
+    "address": {
+        "city": "New York",
+        "country": "USA"
+    },
+    "subjects": ["Python", "AI", "Data Science"]
+}
