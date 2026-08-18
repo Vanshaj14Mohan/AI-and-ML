@@ -1,1 +1,1 @@
-## A guide for Data Science & AI/ML.
+## An in depth guide for Data Science & AI/ML.
